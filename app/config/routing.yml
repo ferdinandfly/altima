@@ -1,0 +1,4 @@
+altima_test:
+    resource: "@AltimaTestBundle/Controller/"
+    type:     annotation
+    prefix:   /
